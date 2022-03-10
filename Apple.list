@@ -1,0 +1,44 @@
+# tag= Apple服务, force-policy=🍎 苹果服务,enabled=true
+# ---(Apple)---
+DOMAIN-SUFFIX,appsto.re
+DOMAIN-SUFFIX,smoot.apple.com
+DOMAIN,amp-api.podcasts.apple.com
+DOMAIN,beta.music.apple.com
+DOMAIN,books.itunes.apple.com
+DOMAIN,lookup-api.apple.com
+DOMAIN,radio.itunes.apple.com
+# > Web Preview
+DOMAIN,apps.apple.com
+DOMAIN,books.apple.com
+DOMAIN,itunes.apple.com
+DOMAIN,tv.apple.com
+# > News
+DOMAIN,gateway.icloud.com
+DOMAIN-SUFFIX,apple.news
+DOMAIN,news-assets.apple.com
+DOMAIN,news-client.apple.com
+DOMAIN,news-client-search.apple.com
+DOMAIN,news-edge.apple.com
+DOMAIN,news-events.apple.com
+DOMAIN,apple.comscoreresearch.com
+
+DOMAIN-SUFFIX,aaplimg.com,Apple
+DOMAIN-SUFFIX,apple.co,Apple
+DOMAIN-SUFFIX,apple.com,Apple
+DOMAIN-SUFFIX,apple.com.cn,Apple
+DOMAIN-SUFFIX,apple-cloudkit.com,Apple
+DOMAIN-SUFFIX,apple-livephotoskit.com,Apple
+DOMAIN-SUFFIX,apple-mapkit.com,Apple
+DOMAIN-SUFFIX,applemusic.com,Apple
+DOMAIN-SUFFIX,appstore.com,Apple
+DOMAIN-SUFFIX,apzones.com,Apple
+DOMAIN-SUFFIX,cdn-apple.com,Apple
+DOMAIN-SUFFIX,icloud.com,Apple
+DOMAIN-SUFFIX,icloud.com.cn,Apple
+DOMAIN-SUFFIX,icloud-content.com,Apple
+DOMAIN-SUFFIX,me.com,Apple
+DOMAIN-SUFFIX,mzstatic.com,Apple
+DOMAIN-KEYWORD,apple.com.akadns.net,Apple
+DOMAIN-KEYWORD,apple.com.edgekey.net,Apple
+DOMAIN-KEYWORD,apple-support.akadns.net,Apple
+DOMAIN-KEYWORD,icloud.com.akadns.net,Apple
