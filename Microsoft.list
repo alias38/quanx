@@ -1,7 +1,7 @@
 # tag=Microsoft, force-policy=Microsoft, enabled=true
 # > Microsoft
-DOMAIN-SUFFIX,bing.com
-DOMAIN-SUFFIX,linkedin.com
-DOMAIN-SUFFIX,licdn.com
-DOMAIN-SUFFIX,msn.com
-DOMAIN-SUFFIX,skype.com
+DOMAIN-SUFFIX,bing.com,bing
+DOMAIN-SUFFIX,linkedin.com,linkedin
+DOMAIN-SUFFIX,licdn.com,licdn
+DOMAIN-SUFFIX,msn.com,msn
+DOMAIN-SUFFIX,skype.com,skype
