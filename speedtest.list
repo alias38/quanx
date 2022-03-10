@@ -1,7 +1,2 @@
 # tag=speedtest, force-policy=speedtest, enabled=true
-
-# 测速类
-//Speed Test
-host-suffix,speedtest.net,speedtest
-host-suffix,netspeedtestmaster.com,speedtest
-host,speedtest.macpaw.com,speedtest
+host-keyword, speedtest
