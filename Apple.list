@@ -2,10 +2,6 @@
 # ---(Apple)---
 DOMAIN-SUFFIX,appsto.re,Apple
 DOMAIN-SUFFIX,smoot.apple.com,Apple
-DOMAIN,beta.music.apple.com
-DOMAIN,books.itunes.apple.com
-DOMAIN,lookup-api.apple.com
-DOMAIN,radio.itunes.apple.com
 # > Web Preview
 DOMAIN,apps.apple.com
 DOMAIN,books.apple.com
