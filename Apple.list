@@ -1,7 +1,7 @@
 # tag=Apple服务, force-policy=Apple服务,enabled=true
 # ---(Apple)---
-DOMAIN-SUFFIX,appsto.re
-DOMAIN-SUFFIX,smoot.apple.com
+DOMAIN-SUFFIX,appsto.re,Apple
+DOMAIN-SUFFIX,smoot.apple.com,Apple
 DOMAIN,amp-api.podcasts.apple.com
 DOMAIN,beta.music.apple.com
 DOMAIN,books.itunes.apple.com
