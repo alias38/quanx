@@ -1,4 +1,4 @@
-# tag= Apple服务, force-policy=🍎 苹果服务,enabled=true
+# tag=Apple服务, force-policy=Apple服务,enabled=true
 # ---(Apple)---
 DOMAIN-SUFFIX,appsto.re
 DOMAIN-SUFFIX,smoot.apple.com

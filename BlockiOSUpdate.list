@@ -1,4 +1,4 @@
-# tag= 屏蔽更新,enabled=true
+# tag=屏蔽更新,enabled=true
 # Block iOS Update
 DOMAIN,mesu.apple.com,REJECT
 DOMAIN,gdmf.apple.com,REJECT
