@@ -1,3 +1,5 @@
+#tag=🚫 运营商劫持, enabled=true
+
 # Internet Service Providers Hijacking
 DOMAIN-SUFFIX,17gouwuba.com,REJECT
 DOMAIN-SUFFIX,186078.com,REJECT
