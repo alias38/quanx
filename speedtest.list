@@ -1,4 +1,4 @@
 //Speed Test
 host-suffix,speedtest.net,SpeedTest
-host-suffix,netspeedtestmaster.com,Speed Test
-host,speedtest.macpaw.com,Speed Test
+host-suffix,netspeedtestmaster.com,SpeedTest
+host,speedtest.macpaw.com,SpeedTest
