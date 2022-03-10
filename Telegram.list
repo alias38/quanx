@@ -1,6 +1,5 @@
 # tag= Telegram ,force-policy= telegram , enabled=true
 # > Telegram
-DOMAIN-SUFFIX,legra.ph,telegram
 DOMAIN-SUFFIX,t.me,telegram
 DOMAIN-SUFFIX,tdesktop.com,telegram
 DOMAIN-SUFFIX,telegra.ph,telegram
