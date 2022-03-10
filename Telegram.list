@@ -1,12 +1,12 @@
 # tag= Telegram ,force-policy= telegram , enabled=true
 # > Telegram
-DOMAIN-SUFFIX,legra.ph
-DOMAIN-SUFFIX,t.me
-DOMAIN-SUFFIX,tdesktop.com
-DOMAIN-SUFFIX,telegra.ph
-DOMAIN-SUFFIX,telegram.me
-DOMAIN-SUFFIX,telegram.org
-DOMAIN-SUFFIX,telesco.pe
+DOMAIN-SUFFIX,legra.ph,telegram
+DOMAIN-SUFFIX,t.me,telegram
+DOMAIN-SUFFIX,tdesktop.com,telegram
+DOMAIN-SUFFIX,telegra.ph,telegram
+DOMAIN-SUFFIX,telegram.me,telegram
+DOMAIN-SUFFIX,telegram.org,telegram
+DOMAIN-SUFFIX,telesco.pe,telegram
 IP-CIDR,91.108.4.0/22
 IP-CIDR,91.108.8.0/22
 IP-CIDR,91.108.12.0/22
