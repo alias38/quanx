@@ -1,2 +1,6 @@
 //freenom
-host-keyword,freenom,freenom
+host-suffix,freenom.com,freenom
+host-suffix,opentld.com,freenom
+host-suffix,freenom.world,freenom
+ip-cidr,35.190.26.6,freenom
+ip-cidr,35.186.227.193,freenom
