@@ -1278,5 +1278,6 @@ HOST-SUFFIX,wn.com,PROXY
 HOST-SUFFIX,wolframalpha.com,PROXY
 HOST-SUFFIX,x-art.com,PROXY
 HOST-SUFFIX,yimg.com,PROXY
-HOST-SUFFIX,freenom.com,PROXY,force-remote-dns
+HOST-KEYWORD,freenom,PROXY,force-remote-dns
+
 
