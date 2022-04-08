@@ -1,23 +1,6 @@
 # 国外网站
 # Proxy list 仍然处于持续更新中
-host-suffix,livehub.com,Proxy
-host-suffix,www.pornhub.org,Proxy
-host-suffix,pornhub.org,Proxy
-host-suffix,cexhk.com,Proxy
-host-suffix,pornhub.com,Proxy
-host-suffix,www.pornhub.com,Proxy
-host-suffix,jp.pornhub.com,Proxy
-host-suffix,es.pornhub.com,Proxy
-host-suffix,mobile.pornhub.com,Proxy
-host-suffix,de.pornhub.com,Proxy
-host-suffix,m.pornhub.com,Proxy
-host-suffix,modelhub.com,Proxy
-host-suffix,ad-ag.net,Proxy
-host-suffix,www.modelhub.com,Proxy
-host-suffix,pt.pornhub.com,Proxy
-host-suffix,anglingdirect.fr,Proxy
-host-suffix,it.pornhub.com,Proxy
-host-suffix,fr.pornhub.co,Proxy
+host-suffix,pornhub.com,Proxy,force-remote-dns
 host-suffix,euserv.com,Proxy
 host-suffix,91ai.net,Proxy
 host-suffix,9to5mac.com,Proxy
