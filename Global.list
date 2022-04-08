@@ -1109,6 +1109,7 @@ HOST-SUFFIX,wsj.com,PROXY,force-remote-dns
 HOST-SUFFIX,wsj.net,PROXY,force-remote-dns
 HOST-SUFFIX,xboxlive.com,PROXY,force-remote-dns
 HOST-SUFFIX,xvideos.com,PROXY,force-remote-dns
+HOST-SUFFIX,xvideos-cdn.com,PROXY
 HOST-SUFFIX,yahoo.com,PROXY,force-remote-dns
 HOST-SUFFIX,yesasia.com,PROXY,force-remote-dns
 HOST-SUFFIX,yes-news.com,PROXY,force-remote-dns
